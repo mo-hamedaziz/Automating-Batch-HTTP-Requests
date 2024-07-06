@@ -1,0 +1,7 @@
+# Ignore all files and directories except specific ones
+*
+
+# Allow specific files
+!send_request.py
+!requirements.txt
+!README.md
